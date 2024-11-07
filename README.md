@@ -2,6 +2,8 @@
 
 Interactive Visualization of Gene Structures on Chromosomes Using Python
 
+<div align="center"> <img src="screenshot.png" alt="Chromoscopy Screenshot" width="600"/> <p><em>Figure 1: Chromoscopy Interface</em></p> </div> 
+
 ## Prerequisites
 
 - **Python 3.7+**  
