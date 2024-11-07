@@ -15,7 +15,7 @@ Interactive Visualization of Gene Structures on Chromosomes Using Python
 
    ```bash
    git clone https://github.com/bernhard-buss/chromoscopy.git
-   cd your-repo
+   cd chromoscopy
    ```
 
 2. **Create a virtual environment:**
